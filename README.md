@@ -4,7 +4,7 @@
 
 An end-to-end Excel project on the IBM HR Analytics dataset (1,470 employees). It uses conditional formatting to spot leavers and risk, a rule-based risk-scoring model to find who might leave next, and what-if analysis (scenarios, sensitivity tables, Goal Seek) to estimate the ROI of retention programmes.
 
-![Dashboard](dashboard.jpeg)
+![Dashboard](Dashboard.jpeg)
 
 ---
 
